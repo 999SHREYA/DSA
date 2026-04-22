@@ -1,4 +1,12 @@
 
+// 3-step loop mindset
+
+// Every two-pointer problem =
+
+// Clean / skip
+// Compare
+// Move
+
 function isValidPalindrom(s){
     let i = 0;
     let j = s.length-1;
